@@ -1,0 +1,4 @@
+# 依赖（体积巨大，必须忽略）
+.DS_Store
+node_modules
+dist
